@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<messages>
+	<message id="1">
+		<school>szu</school>
+		<msg>我是很长的信息</msg>
+	</message>
+
+	<message id="2">
+		<school>广州大学</school>
+		<msg>我来自广州大学</msg>
+	</message>
+</messages>
